@@ -26,4 +26,4 @@ Manifest.toml
 
 # My own additions
 *.toml
-
+.CondaPkg/
